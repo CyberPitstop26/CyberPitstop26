@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cybersecurity field
 - 📫 How to reach me discord - mcqueen26_01154
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am Just starting
+- ⚡ Fun fact: I am Just starting here
 
 <!---
 CyberPitstop26/CyberPitstop26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
